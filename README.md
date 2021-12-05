@@ -3,6 +3,23 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2021.11.21 ~ 2021.12.04
+
+* [다리 만들기](https://www.acmicpc.net/problem/2146)
+* [부분수열의 합 2](https://www.acmicpc.net/problem/1208)
+* [N-Queen](https://www.acmicpc.net/problem/9663)
+* [ABCDE](https://www.acmicpc.net/problem/13023)
+* [수 묶기](https://www.acmicpc.net/problem/1744)
+* [레이저 통신](https://www.acmicpc.net/problem/6087)
+* [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/)
+* [빵집](https://www.acmicpc.net/problem/3109)
+* [구간 합 구하기 4](https://www.acmicpc.net/problem/11659)
+* [2xn 타일링 2](https://www.acmicpc.net/problem/11727)
+* [음악프로그램](https://www.acmicpc.net/problem/2623)
+* [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+* [소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466)
+* [구간 합 구하기](https://www.acmicpc.net/problem/2042)
+
 ## 2021.11.06 ~ 2021.11.20
 
 * [웜홀](https://www.acmicpc.net/problem/1865)
