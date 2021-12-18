@@ -3,6 +3,21 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2021.12.05 ~ 2021.12.18
+
+* [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
+* [동전 뒤집기](https://www.acmicpc.net/problem/1285)
+* [소문난 칠공주](https://www.acmicpc.net/problem/1941)
+* [행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)
+* [로봇 프로젝트](https://www.acmicpc.net/problem/3649)
+* [IQ Test](https://www.acmicpc.net/problem/1111)
+* [Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+* [신기한 소수](https://www.acmicpc.net/problem/2023)
+* [숫자고르기](https://www.acmicpc.net/problem/2668)
+* [별 찍기 - 11](https://www.acmicpc.net/problem/2448)
+* [경사로](https://www.acmicpc.net/problem/14890)
+* [최솟값과 최댓값](https://www.acmicpc.net/problem/2357)
+
 ## 2021.11.21 ~ 2021.12.04
 
 * [다리 만들기](https://www.acmicpc.net/problem/2146)
