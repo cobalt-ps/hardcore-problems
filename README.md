@@ -3,6 +3,22 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2021.12.19 ~ 2022.01.01
+
+* [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)
+* [적록색약](https://www.acmicpc.net/problem/10026)
+* [월드컵](https://www.acmicpc.net/problem/6987)
+* [문자열 교환](https://www.acmicpc.net/problem/1522)
+* [내려가기](https://www.acmicpc.net/problem/2096)
+* [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+* [트리의 순회](https://www.acmicpc.net/problem/2263)
+* [연구소 3](https://www.acmicpc.net/problem/17142)
+* [프랙탈 평면](https://www.acmicpc.net/problem/1030)
+* [빗물](https://www.acmicpc.net/problem/14719)
+* [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
+* [세 용액](https://www.acmicpc.net/problem/2473)
+* [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+
 ## 2021.12.05 ~ 2021.12.18
 
 * [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/)
