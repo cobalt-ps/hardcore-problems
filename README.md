@@ -3,6 +3,22 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.01.02 ~ 2022.01.15
+
+* [불](https://www.acmicpc.net/problem/5427)
+* [월드컵](https://www.acmicpc.net/problem/6987)
+* [이분 그래프](https://www.acmicpc.net/problem/1707)
+* [교환](https://www.acmicpc.net/problem/1039)
+* [고스택](https://www.acmicpc.net/problem/3425)
+* [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
+* [방 번호](https://www.acmicpc.net/problem/1082)
+* [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+* [1학년](https://www.acmicpc.net/problem/5557)
+* [가르침](https://www.acmicpc.net/problem/1062)
+* [드래곤 커브](https://www.acmicpc.net/problem/15685)
+* [홀수 홀릭 호석](https://www.acmicpc.net/problem/20164)
+* [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+
 ## 2021.12.19 ~ 2022.01.01
 
 * [Vowels of All Substrings](https://leetcode.com/problems/vowels-of-all-substrings/)
