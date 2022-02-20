@@ -3,6 +3,22 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.02.06 ~ 2022.02.19
+
+* [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+* [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+* [수식 완성하기](https://www.acmicpc.net/problem/10421)
+* [금과 은 운반하기](https://programmers.co.kr/learn/courses/30/lessons/86053)
+* [최단경로](https://www.acmicpc.net/problem/1753)
+* [미로 탈출하기](https://www.acmicpc.net/problem/17090)
+* [HTML 파싱](https://www.acmicpc.net/problem/22859)
+* [대표 선수](https://www.acmicpc.net/problem/2461)
+* [Watering Plants](https://leetcode.com/problems/watering-plants/description/)
+* [평범한 배낭](https://www.acmicpc.net/problem/12865)
+* [멀티버스 II](https://www.acmicpc.net/problem/18869)
+* [하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)
+* [테트리미노](https://www.acmicpc.net/problem/14500)
+
 ## 2022.01.16 ~ 2022.02.05 (멤버 부족으로 휴식 및 신규 멤버 적응 기간)
 
 * [치킨 배달](https://www.acmicpc.net/problem/15686)
