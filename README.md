@@ -3,6 +3,13 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.02.20 ~ 2022.02.26
+
+* [배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+* [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+* [뱀](https://www.acmicpc.net/problem/3190)
+* [사전](https://www.acmicpc.net/problem/1256)
+
 ## 2022.02.06 ~ 2022.02.19
 
 * [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
