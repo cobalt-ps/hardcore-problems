@@ -3,6 +3,24 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.02.27 ~ 2022.03.12
+
+* [좀비 바이러스](https://www.acmicpc.net/problem/24513)
+* [출근 경로](https://www.acmicpc.net/problem/5569)
+* [단어 수학](https://www.acmicpc.net/problem/1339)
+* [웜홀](https://www.acmicpc.net/problem/1865)
+* [트리 순회](https://www.acmicpc.net/problem/22856)
+* [목장 건설하기](https://www.acmicpc.net/problem/14925)
+* [영상처리](https://www.acmicpc.net/problem/21938)
+* [연속합](https://www.acmicpc.net/problem/1912)
+* [콘센트](https://www.acmicpc.net/problem/23843)
+* [중앙값 구하기](https://www.acmicpc.net/problem/2696)
+* [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+* [동전](https://www.acmicpc.net/problem/3363)
+* [거짓말](https://www.acmicpc.net/problem/1043)
+* [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)
+* [숨바꼭질 2](https://www.acmicpc.net/problem/12851)
+
 ## 2022.02.20 ~ 2022.02.26
 
 * [배열 돌리기 4](https://www.acmicpc.net/problem/17406)
