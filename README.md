@@ -3,6 +3,21 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.03.27 ~ 2022.04.09
+
+* [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
+* [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
+* [배열에서 이동](https://www.acmicpc.net/problem/1981)
+* [트리의 지름](https://www.acmicpc.net/problem/1167)
+* [입국 심사](https://www.acmicpc.net/problem/3079)
+* [텔레포트](https://www.acmicpc.net/problem/16958)
+* [스도쿠](https://www.acmicpc.net/problem/2239)
+* [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)
+* [보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)
+* [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+* [산책 (small)](https://www.acmicpc.net/problem/22868)
+* [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
+
 ## 2022.03.13 ~ 2022.03.26
 
 * [이진 검색 트리](https://www.acmicpc.net/problem/5639)
