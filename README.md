@@ -3,6 +3,22 @@
 일반 스터디 진행과 동시에 매일 돌아가며 1~2 문제를 선정하여 같이 풀이를 시도합니다. (하루 평균 2문제)  
 일반적으로 문제 선정 시 1문제만 선정하며, 난이도가 쉽거나 비슷한 문제의 경우 2문제까지 선정하기도 합니다.  
 
+## 2022.04.10 ~ 2022.04.23
+
+* [퇴사](https://www.acmicpc.net/problem/14501)
+* [주사위 쌓기](https://www.acmicpc.net/problem/2116)
+* [카드 정렬하기](https://www.acmicpc.net/problem/1715)
+* [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
+* [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
+* [합이 0인 네 정수](https://www.acmicpc.net/problem/7453)
+* [용액](https://www.acmicpc.net/problem/2467)
+* [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022)
+* [경로 찾기](https://www.acmicpc.net/problem/11403)
+* [시그널](https://www.acmicpc.net/problem/16113)
+* [장군](https://www.acmicpc.net/problem/16509)
+* [도서관](https://www.acmicpc.net/problem/1461)
+* [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+
 ## 2022.03.27 ~ 2022.04.09
 
 * [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/)
